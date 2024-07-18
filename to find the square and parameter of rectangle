@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
  
-// Utility function
+
 int areaRectangle(int a, int b)
 {
    int area = a * b;
@@ -14,7 +14,7 @@ int perimeterRectangle(int a, int b)
    return perimeter;
 }
  
-// Driver code
+
 int main()
 {
   int a = 5;
